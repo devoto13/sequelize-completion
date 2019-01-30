@@ -1,0 +1,5 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.wordBasedSuggestions": false,
+    "typescript.tsserver.log": "verbose"
+}
